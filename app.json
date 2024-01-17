@@ -50,7 +50,7 @@
             "url": "heroku/python"
         }
     ],
-    "stack": "heroku-22",
+    "stack": "heroku-20",
     "formation": {
         "worker": {
             "quantity": 1,
